@@ -1,31 +1,15 @@
-<div class="space-before-footer"></div>
-<footer class="container py-5 footer">
-	<div class="row">
-		<div class="col-12 col-md">
-			
-		</div>
-		<div class="col-6 col-md">
-			<h5>Features</h5>
-			<ul class="list-unstyled text-small">
-				<li><a class="text-muted" href="#">Cool stuff</a></li>
-				<li><a class="text-muted" href="#">Random feature</a></li>
-				<li><a class="text-muted" href="#">Team feature</a></li>
-				<li><a class="text-muted" href="#">Stuff for developers</a></li>
-				<li><a class="text-muted" href="#">Another one</a></li>
-				<li><a class="text-muted" href="#">Last time</a></li>
-			</ul>
-		</div>
-		<div class="col-6 col-md">
-		</div>
-		<div class="col-6 col-md">
-		</div>
-		<div class="col-6 col-md">
-		</div>
-	</div>
-	<div class="row">
-		<small class="d-block mb-3 text-muted"> Powered By Gustavo Santos &copy; 2017-2018</small>
+
+<footer class="mastfoot footer" >
+	<div class="inner">
+		<p>
+			Desenvolvido por <a href="https://getbootstrap.com/">Gustavo Santos</a> &copy; 2018.
+			<img src="images/icons/instagram-24.png" alt="instagram_logo"> 
+			<img src="images/icons/facebook-3-24.png" alt="facebook_logo"> 
+			<img src="images/icons/whatsapp-24.png" alt="whatsapp_logo">
+		</p>
 	</div>
 </footer>
+</div>
 
 <!-- Bootstrap core JavaScript. Placed at the end of the document so the pages load faster -->
 <script src="js/jquery-3.2.1.slim.min.js"></script>

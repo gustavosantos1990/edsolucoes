@@ -45,7 +45,6 @@ body {
 }
 
 .cover-container {
-  max-width: 42em;
   width: 100%;
 }
 
@@ -110,4 +109,9 @@ body {
  */
 .mastfoot {
   color: rgba(255, 255, 255, .5);
+}
+
+.inner .logo-img{
+  float: left;
+  padding-top: 5px;
 }

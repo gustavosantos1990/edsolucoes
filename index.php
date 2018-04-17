@@ -22,6 +22,7 @@
   <div class="cover-container d-flex h-100 p-3 mx-auto flex-column">
     <header class="masthead mb-auto">
       <div class="inner">
+        <img class="logo-img" src="images/icons/books-24.png" alt="logo-24">
         <h3 class="masthead-brand">E<small>&</small>D Soluções</h3>
         <nav class="nav nav-masthead justify-content-center">
           <a class="nav-link active" href="index.php">Home</a>
@@ -35,6 +36,7 @@
 
     <main role="main" class="inner cover">
       <h1 class="cover-heading">E<small>&</small>D Soluções</h1>
+      <img src="images/icons/books-128.png" alt="logo-128">
       <p class="lead">Soluções em Ensino do Técnico ao Superior.</p>
       <p class="lead">
         <a href="servicos.php" class="btn btn-lg btn-secondary">Conheça nossos serviços</a>
