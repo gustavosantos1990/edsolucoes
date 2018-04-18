@@ -3,9 +3,6 @@
 	<div class="inner">
 		<p>
 			Desenvolvido por <a href="https://getbootstrap.com/">Gustavo Santos</a> &copy; 2018.
-			<img src="images/icons/instagram-24.png" alt="instagram_logo"> 
-			<img src="images/icons/facebook-3-24.png" alt="facebook_logo"> 
-			<img src="images/icons/whatsapp-24.png" alt="whatsapp_logo">
 		</p>
 	</div>
 </footer>

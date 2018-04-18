@@ -85,16 +85,22 @@ body > .container {
   background-position: center;
 }
 
+
+
 .service-background{
-  background-image: url("../images/background-index.jpg");
+  background-image: url("../images/service-background.jpg");
 }
 
 .contato-background{
-  background-image: url("../images/contato1.jpg");
+  background-image: url("../images/contato-background.jpg");
 }
 
 .quem-somos-background{
-  background-image: url("../images/quem-somos1.jpg");
+  background-image: url("../images/quem-somos-background.jpg");
+}
+
+.parceiros-background{
+  background-image: url("../images/parceiros-background4.jpg");
 }
 
 .card img{
@@ -164,4 +170,32 @@ a:hover {
 .inner .logo-img{
   float: left;
   padding-top: 5px;
+}
+
+.bg-dark {
+    background-color: #343a40!important;
+}
+
+.card .background-for-contacts{
+  min-height: 200px;
+  background-color: rgb(255,127,39);
+
+}
+
+.card .background-for-contacts img{
+  vertical-align: middle;
+}
+
+.card-deck{
+  padding: 60px 60px 0;
+}
+
+.card .helper {
+    display: inline-block;
+    height: 100%;
+    vertical-align: middle;
+}
+
+.card-deck{
+  margin-bottom: 50px; 
 }

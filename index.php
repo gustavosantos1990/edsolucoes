@@ -19,7 +19,7 @@
 
 <body class="text-center">
 
-  <div class="cover-container d-flex h-100 p-3 mx-auto flex-column">
+  <div class="cover-container d-flex h-100 p-3 mx-auto flex-column background-images index-background">
     <header class="masthead mb-auto">
       <div class="inner">
         <img class="logo-img" src="images/icons/books-24.png" alt="logo-24">
