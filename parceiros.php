@@ -19,7 +19,7 @@ $currentPage = 'parceiros';
 
 
 		<div class="row featurette">
-			<div class="col-md-7 ">
+			<div class="col-md-7">
 				<h2 class="featurette-heading">Master Idiomas</h2>
 				<p class="lead">Quer aprender inglês de qualidade e conquistar aquela fluência tão desejada?!<br>
 					Seja um <strong>Master</strong>!</p>

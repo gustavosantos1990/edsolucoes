@@ -43,7 +43,7 @@
 				}else{
 					echo 'class="nav-link"';
 				}
-				?> href="parceiros">Parceiros</a>
+				?> href="parceiros.php">Parceiros</a>
 			</nav>
 		</div>
 	</header>

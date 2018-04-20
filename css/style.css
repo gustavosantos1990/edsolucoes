@@ -15,7 +15,7 @@ body > .container {
 
 .background-index{
   background-image: url("../images/background-index3.jpg");
-  background-size: 100%;
+  background-size: cover;
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-position: center;
@@ -79,7 +79,7 @@ body > .container {
 }
 
 .background-images{
-  background-size: 100%;
+  background-size: cover;
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-position: center;
@@ -150,7 +150,7 @@ a:hover {
 }
 
 .masthead-brand {
-    float: left;
+  float: left;
 }
 
 @media (min-width: 48em) {
@@ -173,7 +173,7 @@ a:hover {
 }
 
 .bg-dark {
-    background-color: #343a40!important;
+  background-color: #343a40!important;
 }
 
 .card .background-for-contacts{
@@ -191,9 +191,9 @@ a:hover {
 }
 
 .card .helper {
-    display: inline-block;
-    height: 100%;
-    vertical-align: middle;
+  display: inline-block;
+  height: 100%;
+  vertical-align: middle;
 }
 
 .card-deck{
@@ -284,4 +284,72 @@ a:hover {
   .featurette-heading {
     margin-top: 7rem;
   }
+}
+
+.gray-background{
+ background-color: #333;
+}
+
+.orange-background{
+  background-color: rgb(255,127,39);
+}
+
+.font-gray{
+  color: #333;
+}
+
+.font-light{
+  color: #fff;
+}
+
+/*
+ * Extra utilities
+ */
+
+ .border-top { border-top: 1px solid #e5e5e5; }
+ .border-bottom { border-bottom: 1px solid #e5e5e5; }
+
+ .box-shadow { 
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05); 
+  padding: 15px;
+}
+
+.flex-equal > * {
+  -ms-flex: 1;
+  -webkit-box-flex: 1;
+  flex: 1;
+}
+@media (min-width: 768px) {
+  .flex-md-equal > * {
+    -ms-flex: 1;
+    -webkit-box-flex: 1;
+    flex: 1;
+  }
+}
+
+.overflow-hidden { overflow: hidden; }
+
+.missao-background{
+  background-image: url("../images/target.png");
+  background-repeat: no-repeat;
+
+  background-size: 100%;
+  background-attachment: fixed;
+  
+  background-position: center;
+
+}
+
+.hide-bullets {
+    list-style:none;
+    margin-left: -40px;
+    margin-top:20px;
+}
+
+.thumbnail {
+    padding: 0;
+}
+
+.carousel-inner>.item>img, .carousel-inner>.item>a>img {
+    width: 100%;
 }
